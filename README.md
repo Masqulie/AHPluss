@@ -7,8 +7,7 @@ This is one of the fastest Auction Flipping mod for Hypixel Skyblock. You can ge
 <br><br><br>
 `/nec` to open the flipper menu<br>
 `/nec help` for more help
-## DISCLAIMER
-Once you download the mod, you read and agreed the term of service.
+
 
 ## Why I made this
 Auction flipping should be fun and equal to everyone! 
